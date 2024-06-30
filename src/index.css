@@ -1,0 +1,13 @@
+*{
+    margin:0px;
+    padding: 0xp;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: black;
+    color:white;
+}
+body::-webkit-scrollbar{
+  display: none;
+}
